@@ -38,7 +38,7 @@ const PostModal = () => {
           />
         </div>
         {/* BOTTOM */}
-        {/* <div className=" flex items-center justify-between gap-4 flex-wrap border-t border-borderGray pt-4">
+        <div className=" flex items-center justify-between gap-4 flex-wrap border-t border-borderGray pt-4">
           <div className="flex gap-4 flex-wrap">
             <ImageComponent
               path="icons/image.svg"
@@ -84,7 +84,7 @@ const PostModal = () => {
             />
           </div>
           <button className="py-2 px-5 text-black bg-white rounded-full font-bold">Post</button>
-        </div> */}
+        </div>
       </div>
     </div>
   );
